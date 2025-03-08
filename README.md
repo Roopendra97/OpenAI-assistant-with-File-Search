@@ -63,8 +63,9 @@ OPENAI_API_KEY=your_openai_api_key
 
 4️⃣ Run the Server
 
-node index.js
+npm start
 
+after running check the index.js file to run the apis.
 
 🔗 Additional Resources
 
