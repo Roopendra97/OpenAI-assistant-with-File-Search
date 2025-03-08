@@ -63,7 +63,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 4️⃣ Run the Server
 
-node server.js
+node index.js
 
 
 🔗 Additional Resources

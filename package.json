@@ -1,0 +1,19 @@
+{
+  "name": "openai-assistant-with-file-search",
+  "version": "1.0.0",
+  "description": "A complete guide to building an AI-powered assistant using OpenAI's Assistant API with file search, vector stores, and real-time streaming in Express.js.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.86.2"
+  }
+}
